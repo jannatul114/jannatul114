@@ -1,14 +1,16 @@
-### Hi there 👋
+![a junior web-developer](https://cdn.dribbble.com/users/4435100/screenshots/15114878/composition_1.gif)
+### Hi there 👋, I am mithila 
+#### a junior web-developer
 
-**jannatul114/jannatul114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am trying to explore myself
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Skills: HTML/CSS/JAVASCRIPT/REACT/MONGODB/TAILWIND
+
+- 🔭 I’m currently working on a project 
+- 🌱 I’m currently learning mongodb 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jannatil114)  
+
+![Profile views](https://gpvc.arturio.dev/jannatil114)  
