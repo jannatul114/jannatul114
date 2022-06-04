@@ -2,12 +2,12 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannatul114&label=Profile%20views&color=0e75b6&style=flat" alt="jannatul114" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jannatul114" alt="jannatul114" /></a> </p>
-
 - 📫 How to reach me **jfmithila114@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yC7-FjgOCywNR5Kxnpp6MahrbGk95fGG/view?usp=sharing](https://drive.google.com/file/d/1yC7-FjgOCywNR5Kxnpp6MahrbGk95fGG/view?usp=sharing)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jannatul114" alt="jannatul114" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
