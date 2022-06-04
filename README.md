@@ -33,14 +33,8 @@
 </p>
 
 
-
-
-<p align="center">
-   <table>     
-     <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-profile-trophy.vercel.app/?username=jannatul114&theme=blue-green&hide_border=true""></td>
-     </tr>
-   </table>
-</p>
+           
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&text_color=f5618d&bg_color=0a0d38"><img src="https://github-profile-trophy.vercel.app/?username=jannatul114" alt="jannatul mithila" /></a> </p>           
+           
 
 
